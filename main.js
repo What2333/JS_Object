@@ -3,12 +3,12 @@
 var obj = new Object();
 
 //向对象中添加属性
-obj.name = "何方";
+obj.name = "hefang";
 
 obj.age = 11;
 
 //修改对象的属性
-obj.name = "何飘";
+obj.name = "hepiao";
 
 //打印输出
 console.log(obj.name);
